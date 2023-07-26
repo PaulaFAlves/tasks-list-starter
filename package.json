@@ -5,9 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "latest",
-    "@babel/core": "latest",
     "@babel/plugin-proposal-object-rest-spread": "latest",
-    "@babel/preset-env": "latest",
     "babel-loader": "latest",
     "webpack": "latest",
     "webpack-cli": "latest",

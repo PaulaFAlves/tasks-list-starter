@@ -1,4 +1,6 @@
-/* Your code */
-.tl-title {
-    text-decoration: black underline;
+.container {
+  width: 80%;
+  min-width: 400px;
+  height: 100%;
+  padding: 20px;
 }
